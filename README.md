@@ -1,4 +1,5 @@
 # alien_invasion_pygame
 Игра стрелялка сделанная в программе Python (pygame).  Все кнопки "кликабельные", в игре есть возможность поставить игру на паузу, продолжить игру, после закрытия окна "кнопкой Q, английская раскладка". Производится запись имени игрока и количества очков в игре. Для запуска игры необходимо установить следующие библиотеки https://pypi.org/project/pygame/ и https://pypi.org/project/sprites/, если ранее не были установлены.
 
-![Screenshot_game_start](https://user-images.githubusercontent.com/84176587/175006188-09307d97-f084-4bea-8c77-bbe9ae714142.jpg)
+
+![Screenshot_game_start](https://user-images.githubusercontent.com/84176587/175006480-03d016d5-b02e-46ed-90b2-f0560224794d.jpg)
